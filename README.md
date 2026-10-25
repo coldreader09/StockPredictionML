@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Stock Prediction
 
 A small starter project for exploring historical stock prices and training a
