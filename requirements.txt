@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas>=2.0
 numpy>=1.24
 scikit-learn>=1.3
@@ -5,4 +6,13 @@ xgboost>=2.0
 yfinance>=0.2.40
 joblib>=1.3
 matplotlib>=3.7
+=======
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+yfinance>=0.2.40
+joblib>=1.3
+matplotlib>=3.7
+>>>>>>> 913fd7dbb9bb7f0997bcaaaca687cd76b868b2bc
 jupyter>=1.0
